@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: 
+
+Files: data/*
+Copyright: David Elworthy <david.elworthy@gmail.com>
+License: GPL-3+
+Comment: Derived from works by Michael Zahniser (from under the same license).

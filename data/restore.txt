@@ -1,0 +1,12 @@
+fleet "Small Hai"
+	personality
+		disables opportunistic
+
+fleet "Large Hai"
+	personality
+		disables opportunistic
+
+
+fleet "Large Plundering Unfettered"
+	personality
+		disables plunders
